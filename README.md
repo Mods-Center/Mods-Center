@@ -8,11 +8,11 @@
 
 [![Channel](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kashis_cringey_stuffs)
 [![Group](https://img.shields.io/badge/Telegram-support_group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bootloop_discussion)
-[![Developer](https://img.shields.io/badge/Dev-Kashi-ff375f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kakashi1v1)
+[![Developer](https://img.shields.io/badge/Dev-%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%82%F0%9F%85%B7%F0%9F%85%B8-ff375f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kakashi1v1)
 
 </div>
 
-## 🚀 Getting started
+## Getting started
 
 1. **Root** your device with [Magisk](https://github.com/topjohnwu/Magisk), [KernelSU](https://github.com/tiann/KernelSU) or [APatch](https://github.com/bmax121/APatch).
 2. On **Android 13+**, most mods need signature verification off. Flash **[Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch)** or **[Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch)** first.
@@ -21,9 +21,9 @@
 > [!TIP]
 > Always remove the old version of a module and reboot before flashing a new one. Read each repo's **Notes** section before reporting a bug.
 
-## 📦 Modules
+## Modules
 
-### 🎛️ Control Center
+### Control Center
 
 | Module | What it does | Release |
 |---|---|---|
@@ -31,7 +31,7 @@
 | **[iOS Control Center](https://github.com/Mods-Center/iOS-Control-Center-HyperOS)** | Replaces the HyperOS Control Center with an iOS-style one: jelly animations, glass blur, iOS volume panel, media and connectivity modules, slide-to power menu. | [![](https://img.shields.io/github/v/release/Mods-Center/iOS-Control-Center-HyperOS?style=flat-square&label=)](https://github.com/Mods-Center/iOS-Control-Center-HyperOS/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/iOS-Control-Center-HyperOS/total?style=flat-square&label=⬇) |
 | **[FreeStyle Control Center](https://github.com/Mods-Center/FreeStyle-Control-Center)** | Unlocks the HyperOS FreeStyle control center: change any tile into a different style, expandable media player, extended power menu, 5G and Restart SystemUI tiles, glass blur on OS4. | [![](https://img.shields.io/github/v/release/Mods-Center/FreeStyle-Control-Center?style=flat-square&label=)](https://github.com/Mods-Center/FreeStyle-Control-Center/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/FreeStyle-Control-Center/total?style=flat-square&label=⬇) |
 
-### 🏠 Launcher & -1 screen
+### Launcher & -1 screen
 
 | Module | What it does | Release |
 |---|---|---|
@@ -39,7 +39,7 @@
 | **[HyperOS Launcher Mod Lite](https://github.com/Mods-Center/HyperOS-launcher-mod-lite)** | Lightweight build of the HyperOS Launcher Mod for low-end devices: faster app-open animations, custom grids, hide apps, stacked recents, widget provider choice. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-launcher-mod-lite?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-launcher-mod-lite/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-launcher-mod-lite/total?style=flat-square&label=⬇) |
 | **[HyperOS 4 Rust Launcher Mod](https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod)** | Mods the new HyperOS 4 Rust/Flutter launcher: dock background, soft-glass tuning, pick any search app, -1 screen choice, hide apps, free widget resizing, plus the HyperLauncherExt settings app. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-Rust-Launcher-Mod?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-Rust-Launcher-Mod/total?style=flat-square&label=⬇) |
 
-### 📱 HyperOS system apps
+### HyperOS system apps
 
 | Module | What it does | Release |
 |---|---|---|
@@ -52,7 +52,7 @@
 | **[HyperOS Package Installer](https://github.com/Mods-Center/HyperOS-Package-Installer)** | Modded HyperOS package installer: new UI with more app info, system apps can be installed, no ads or pop-ups. HyperOS 4 supported. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-Package-Installer?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-Package-Installer/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-Package-Installer/total?style=flat-square&label=⬇) |
 | **[Screenshot](https://github.com/Mods-Center/HyperOS-Screenshot-mod)** | Modded HyperOS screenshot app: device frames for any phone, an app-name pill, saved presets, and edits applied as you capture. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-Screenshot-mod?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-Screenshot-mod/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-Screenshot-mod/total?style=flat-square&label=⬇) |
 
-### 🧩 Patches & universal modules
+### Patches & universal modules
 
 | Module | What it does | Release |
 |---|---|---|
@@ -62,13 +62,13 @@
 | **[Monet Picker](https://github.com/Mods-Center/Monet-Picker)** | Choose Monet (Material You) theme colours yourself on Android 12 to 16. Ported from AOSP (DerpFest), works on OriginOS, ColorOS and other OEM ROMs. | [![](https://img.shields.io/github/v/release/Mods-Center/Monet-Picker?style=flat-square&label=)](https://github.com/Mods-Center/Monet-Picker/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/Monet-Picker/total?style=flat-square&label=⬇) |
 | **[FPS Limitation Patcher](https://github.com/Mods-Center/FPS-Limitation-Patcher)** | Patches PowerKeeper on the device to remove MIUI/HyperOS FPS limits for smoother gaming. Android 16 supported. | [![](https://img.shields.io/github/v/release/Mods-Center/FPS-Limitation-Patcher?style=flat-square&label=)](https://github.com/Mods-Center/FPS-Limitation-Patcher/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/FPS-Limitation-Patcher/total?style=flat-square&label=⬇) |
 
-### 🗄️ HyperOS 1
+### HyperOS 1
 
 | Module | What it does | Release |
 |---|---|---|
 | **[HyperOS Plugin (HyperOS 1)](https://github.com/Mods-Center/HyperOS-Plugin)** | HyperOS 1 / MIUI 14 SystemUI plugin mod: new control center UI, choose the number of tiles, tile and toggle colours, 200% super volume boost. Android 12+. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-Plugin?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-Plugin/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-Plugin/total?style=flat-square&label=⬇) |
 
-### 🗄️ Legacy MIUI (no longer updated)
+### Legacy MIUI (no longer updated)
 
 | Module | What it does | Release |
 |---|---|---|
@@ -81,9 +81,9 @@
 | **[MIUI Gallery](https://github.com/Mods-Center/Miui_Gallery_Mod)** | Modded MIUI 12–13 Gallery: editor features unlocked and device frames. | [![](https://img.shields.io/github/v/release/Mods-Center/Miui_Gallery_Mod?style=flat-square&label=)](https://github.com/Mods-Center/Miui_Gallery_Mod/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/Miui_Gallery_Mod/total?style=flat-square&label=⬇) |
 | **[MIUI App Vault](https://github.com/Mods-Center/Miui_App_Vault_Mod)** | Modded MIUI 12–13 App Vault: widgets unlocked, English widget server, add-widget button and new scroll animation on low-end devices. | [![](https://img.shields.io/github/v/release/Mods-Center/Miui_App_Vault_Mod?style=flat-square&label=)](https://github.com/Mods-Center/Miui_App_Vault_Mod/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/Miui_App_Vault_Mod/total?style=flat-square&label=⬇) |
 
-## 💬 Support
+## Support
 
-- 📢 Release announcements: [Telegram channel](https://t.me/kashis_cringey_stuffs)
-- 💬 Questions and bug reports: [Telegram support group](https://t.me/bootloop_discussion) or the repo's **Issues** tab
+- Release announcements: [Telegram channel](https://t.me/kashis_cringey_stuffs)
+- Questions and bug reports: [Telegram support group](https://t.me/bootloop_discussion) or the repo's **Issues** tab
 - If you use these mods in your ROM, please credit Mods Center.
-- ❤️ Support the servers: [PayPal](https://www.paypal.me/kevinmp26)
+- Support the servers: [PayPal](https://www.paypal.me/kevinmp26)
