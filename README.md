@@ -66,7 +66,7 @@
 
 | Module | What it does | Release |
 |---|---|---|
-| **[HyperOS Plugin (HyperOS 1)](https://github.com/Mods-Center/HyperOS-PLugin)** | HyperOS 1 / MIUI 14 SystemUI plugin mod: new control center UI, choose the number of tiles, tile and toggle colours, 200% super volume boost. Android 12+. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-PLugin?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-PLugin/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-PLugin/total?style=flat-square&label=⬇) |
+| **[HyperOS Plugin (HyperOS 1)](https://github.com/Mods-Center/HyperOS-Plugin)** | HyperOS 1 / MIUI 14 SystemUI plugin mod: new control center UI, choose the number of tiles, tile and toggle colours, 200% super volume boost. Android 12+. | [![](https://img.shields.io/github/v/release/Mods-Center/HyperOS-Plugin?style=flat-square&label=)](https://github.com/Mods-Center/HyperOS-Plugin/releases/latest) ![](https://img.shields.io/github/downloads/Mods-Center/HyperOS-Plugin/total?style=flat-square&label=⬇) |
 
 ### 🗄️ Legacy MIUI (no longer updated)
 
