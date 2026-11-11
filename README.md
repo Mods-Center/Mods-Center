@@ -6,6 +6,7 @@
 
 **Mods for Xiaomi HyperOS and MIUI, plus universal Android modules: Control Center, launcher, system apps and patches, all installed as Magisk / KernelSU / APatch modules.**
 
+[![Website](https://img.shields.io/badge/modscenter.org-website-0a84ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://modscenter.org)
 [![Channel](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kashis_cringey_stuffs)
 [![Group](https://img.shields.io/badge/Telegram-support_group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bootloop_discussion)
 [![Developer](https://img.shields.io/badge/Dev-%F0%9F%85%BA%F0%9F%85%B0%F0%9F%86%82%F0%9F%85%B7%F0%9F%85%B8-ff375f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kakashi1v1)
@@ -17,6 +18,14 @@
 1. **Root** your device with [Magisk](https://github.com/topjohnwu/Magisk), [KernelSU](https://github.com/tiann/KernelSU) or [APatch](https://github.com/bmax121/APatch).
 2. On **Android 13+**, most mods need signature verification off. Flash **[Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch)** or **[Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch)** first.
 3. Get the mod you want from its **Releases** page, flash it and reboot.
+
+## Website & Patcher
+
+**[modscenter.org](https://modscenter.org)** has every module in one place, plus the **[Patcher](https://modscenter.org/patcher)**: pick patch scripts, add your files, and it builds a ready-to-flash Magisk module for your ROM. You can follow the progress from start to finish.
+
+- [Modules](https://modscenter.org/modules): browse and download
+- [Patcher](https://modscenter.org/patcher): automated patching for your own ROM
+- [Scripts](https://modscenter.org/scripts): patches such as the HyperOS notification delay fix, ColorOS-style About phone, signature verification removal and FPS limits
 
 > [!TIP]
 > Always remove the old version of a module and reboot before flashing a new one. Read each repo's **Notes** section before reporting a bug.
@@ -83,6 +92,7 @@
 
 ## Support
 
+- Website: [modscenter.org](https://modscenter.org)
 - Release announcements: [Telegram channel](https://t.me/kashis_cringey_stuffs)
 - Questions and bug reports: [Telegram support group](https://t.me/bootloop_discussion) or the repo's **Issues** tab
 - If you use these mods in your ROM, please credit Mods Center.
